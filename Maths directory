@@ -1,0 +1,331 @@
+<html> <!--http://www.mathpropress.com/mathCenter.html-->
+<head>
+  <title>Mathematics Problems on the Web</title>
+  
+  <h1>Mathematics Problems on the Web</h1>
+  
+  <p>On this page, we try to identify and list all sources of mathematics
+problems on the Internet and related information.
+  Please advise us if you know of any sources that we are missing.</p>
+</head>
+  
+<body>
+<h2>Table of Contents</h2>
+  
+<ul>
+  <li><a href="#columns">Problem Columns from Mathematics Journals</a></li>
+  
+  <ul>
+    <li><a href="#fq">The Fibonacci Quarterly</a></li>
+    <li><a href="#maiq" class='soon'>Mathematics and Informatics Quarterly </a>(coming soon)</li> 
+  </ul> 
+  
+  <li><a href="#mjms">Missouri Journal of Mathematical Sciences</a></li>
+  
+  <li><a href="#wwwcols">Problem Columns on the World Wide Web</a></li>
+  <li><a href="#wwwprobs">Mathematics Problems on the World Wide Web</a></li>
+  <li><a href="#news">Newsgroups</a></li>
+  <ul>
+    <li><a href="#alt.algebra.help">alt.algebra.help</a></li>
+    <li><a href="#alt.math.iams">alt.math.iams</a></li>
+    <li><a href="#geometry.puzzles">geometry.puzzles</a></li>
+    <li><a href="#rec.puzzles">rec.puzzles</a></li>
+    <li><a href="#sci.math">sci.math</a></li>
+    <li><a href="#maus.mathe">maus.mathe</a></li>
+  </ul>
+  <li><a href="#email">Problem Columns via Electronic Mail</a></li>
+  <li><a href="#wwwjnls">Journals with Problem columns on the Web</a></li>
+  <li><a href="#reviews">On-line Book Reviews of Problem Books</a></li>
+  <li><a href="#bookstores">On-line Bookstores that stock Problem Books</a></li>
+  <li><a href="#information">Miscellaneous information</a>
+</ul>
+  
+  <p><a href="/mathpro-bin/guestRegister?show">View Guest Register<a></p>
+
+  <p><a href="sign-in.html">Sign-in</a></p>
+<p><!--<iframe src="https://media3.giphy.com/media/Vbtc9VG51NtzT1Qnv1/…gc1rsjmw0rfz0s7rgceef985hdy7y8&rid=giphy.gif&ct=g" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>-->
+    We invite you to visit the <a HREF="MathPro.html">MathPro Press home page.</a></p>
+
+<hr>
+    
+<a name="columns"></a><img src="gifs/under-construct.gif" alt="" width="166" height="110" border="0">
+    
+		<h2>Problem Columns from Mathematics Journals</h2>
+<p>Many mathematics journals contain problem columns. They invite readers
+to send in solutions to the problems. The best solution submitted
+gets printed in a future issue along with the names of all the solvers.
+
+We list below only a few of the journals that are currently running
+problem columns. You are welcome to try your hand at
+solving these problems. Solutions should be sent to the appropriate problem
+column editor (<em>not</em> to MathPro Press).
+    </p>
+    
+<ul>
+  <li id='fq'>The Fibonacci Quarterly</li>
+	<ul>
+    <li><a href="problemColumns/fq/fqInstructions.html">Instructions for Contributoros</a></li>
+    <li><a href="problemColumns/fq/fqInfo.html">About the Journal</a></li>
+    <li><a href="problemColumns/fq/fqArchive.html">Problem Column Archive</a></li>
+      
+    <li>Current Problems</li>
+    <ul>
+      <li>Volume 32 Issue #4 - August 1994 (deadline: May 1, 1995)</li>
+      <p class='fibonacci'>Problems 766-771</p>
+      <ol>
+        
+        <li><a href="problemColumns/fq/Aug1994.html">web page</a></li>
+        <li><a href="problemColumns/fq/Aug1994.dvi">dvi</a></li>
+      </ol>
+      
+      <li>Volume 32 Issue #5 - November 1994 (deadline: August 1, 1995)</li>
+      <p class='fibonacci'>Problems 772-777</p>
+      <ol>
+        
+        <li><a href="problemColumns/fq/Nov1994.html">web page</a>
+        <li><a href="problemColumns/fq/Nov1994.dvi">dvi</a>
+      </ol>
+      
+      <li>Volume 33 Issue #1 - February 1995 (deadline: November 1, 1995)</li>
+      <p class='fibonacci'>Problems 778-783</p>
+      <ol>
+        <li><a href="problemColumns/fq/Feb1995.html">web page</a></li>
+        <li><a href="problemColumns/fq/Feb1995.dvi">dvi</a></li>
+     </ol>
+      
+      <li>Volume 33 Issue #2 - May 1995 (deadline: February 1, 1996)</li>
+       <p class='fibonacci'>Problems 784-789</p>
+      <ol>
+        <li><a href="problemColumns/fq/May1995.html">web page</a></li>
+        <li><a href="problemColumns/fq/May1995.dvi">dvi</a></li>
+      </ol>
+      
+      </ul>
+  </ul> 
+</ul>
+    
+    <hr>
+		<h2 id='wwwcols'>Problem Columns on the World Wide Web</h2>
+		<ul>
+      <li><a href="http://www.ugcs.caltech.edu/~peterw/math/math.html">Peter Wang's problem of the month</a><br>
+This is an olympiad-level problem column published monthly by
+      <a href="http://www.ugcs.caltech.edu/~peterw/">Peter T. Wang</a></li>
+      
+<li><a href="http://www.stolaf.edu/stolaf/depts/math/mathmess/past_week.html">MathMess Problem of Week</a><br>
+  This is conducted by <a href="mailto:larson@stolaf.edu">Loren Larson</a> at St. Olaf College.</li>
+  
+      <li><a href="gopher://gopher.maa.org:70/11/general/Queries">MAA gopher queries</a></li>
+  
+<li><a href="gopher://gopher.maa.org:70/00/student/Competitions/prob-neal">Richard Neal's
+Problem Solving Competition</a><br>
+  information only.</li>
+<li><a href="http://www.mathsoft.com/">MathSoft</a> publishes
+<a href="http://www.mathsoft.com/puzzle.html">MathCad Puzzler</a> each month
+which consists of problems selected from Allan Gottlieb's problem column in <cite>Technology Review</cite>.</ul>
+
+    
+
+<h2 id='wwwwprobs'>Mathematics Problems on the World Wide Web</h2>
+<ul>
+
+<li><a href="archive/RusMath.txt">The All-Soviet-Union mathematics competitions 1961-1987</a><br>
+These have been provided by <a href="mailto:voldemar@wisdom.weizmann.ac.il">Vladimir A. Pertsel</a> who translated them into English.
+Also available by <a href="gopher://archives.math.utk.edu:70/59/teaching.materials/contests/rusmath">gopher.</a></li>
+
+<li>The <a href="http://www.civeng.carleton.ca/">Department of Civil and Environmental Engineering at Carleton University</a>
+has started a collection of <a href="http://www.civeng.carleton.ca/Problems/">mathematics puzzles</a>.</li>
+
+<li>William Lowell Putnam Mathematical Competition
+<ul>
+<li><a href="http://www.ugcs.caltech.edu/~peterw/">Peter T. Wang</a> has recent Putnam problems posted at
+<a href="http://www.ugcs.caltech.edu/~peterw/putnam.html"> http://www.ugcs.caltech.edu/~peterw/putnam.html</a>.</li>
+
+<li><a href="http://www.math.upenn.edu/~larsen/">Michael Larson</a> has some of the recent Putnam competitions on-line (in PostScript).
+See his home page for details. He also lists some <a href="http://www.math.upenn.edu/~larsen/putnam/scores">recent high scores</a></li>
+
+<li>A <a href="gopher://gopher.maa.org:70/00/student/Competitions/Putnam/Putnam%20problems%20and%20solutions">list
+of references</a> to where in the American Mathematical Monthly you canfind Putnam Problems and solutions, is maintained by the MAA.</ul>
+
+<li><a href="http://math.berkeley.edu/~desouza/pb.html">University of California at Berkeley Preliminary Ph. D. Examinations</a>
+<br>
+Brought to you by
+Paulo Ney de Souza (desouza@math.berkeley.edu) and
+Jorge-Nuno Silva (jnsilva@math.berkeley.edu) of the UC Berkeley
+Mathematics Department. Includes problems from 1977 to present.
+</L>
+			<li><a href="http://www.kalva.demon.co.uk/">Kalva's collection of Maths Problems</a>
+			<li><a href="http://www.imo.org.yu/" target="aaa">IMO Compendium</a>
+		</U>
+
+<a name="news"></a>
+<h2>Newsgroups</h2>
+
+The following newsgroups are devoted to math problems or puzzles
+or contain a fair amount of math problems (among other topics).
+
+<ul>
+<li><a HREF="news:alt.algebra.help" NAME="alt.algebra.help">alt.algebra.help</a>
+<li><a HREF="news:geometry.puzzles" NAME="geometry.puzzles">geometry.puzzles</a>
+<li><a HREF="news:rec.puzzles" NAME="rec.puzzles">rec.puzzles</a><br>
+The archive to rec.puzzles is located at.
+<a href="ftp://rtfm.mit.edu/pub/usenet/news.answers/puzzles/archive">
+ftp://rtfm.mit.edu/pub/usenet/news.answers/puzzles/archive</a>.
+The archive has the following subdivisions:
+<ul>
+<a href="ftp://rtfm.mit.edu/pub/usenet/news.answers/puzzles/archive/Instructions">
+Instructions</a>
+| <a href="ftp://rtfm.mit.edu/pub/usenet/news.answers/puzzles/archive/analysis">analysis puzzles</a>
+| <a href="ftp://rtfm.mit.edu/pub/usenet/news.answers/puzzles/archive/arithmetic/">arithmetic puzzles</a>
+| <a href="ftp://rtfm.mit.edu/pub/usenet/news.answers/puzzles/archive/combinatorics">combinatorics puzzles</a>
+| <a href="ftp://rtfm.mit.edu/pub/usenet/news.answers/puzzles/archive/competition/">competition puzzles</a>
+| <a href="ftp://rtfm.mit.edu/pub/usenet/news.answers/puzzles/archive/cryptology">cryptology puzzles</a>
+| <a href="ftp://rtfm.mit.edu/pub/usenet/news.answers/puzzles/archive/decision">decision puzzles</a>
+| <a href="ftp://rtfm.mit.edu/pub/usenet/news.answers/puzzles/archive/geometry/">geometry puzzles</a>
+| <a href="ftp://rtfm.mit.edu/pub/usenet/news.answers/puzzles/archive/group">group puzzles</a>
+| <a href="ftp://rtfm.mit.edu/pub/usenet/news.answers/puzzles/archive/induction">induction puzzles</a>
+| <a href="ftp://rtfm.mit.edu/pub/usenet/news.answers/puzzles/archive/language/">language puzzles</a>
+| <a href="ftp://rtfm.mit.edu/pub/usenet/news.answers/puzzles/archive/logic/">logic puzzles</a>
+| <a href="ftp://rtfm.mit.edu/pub/usenet/news.answers/puzzles/archive/physics">physics puzzles</a>
+| <a href="ftp://rtfm.mit.edu/pub/usenet/news.answers/puzzles/archive/pickover/">pickover puzzles</a>
+| <a href="ftp://rtfm.mit.edu/pub/usenet/news.answers/puzzles/archive/probability">probability puzzles</a>
+| <a href="ftp://rtfm.mit.edu/pub/usenet/news.answers/puzzles/archive/real-life">real-life puzzles</a>
+| <a href="ftp://rtfm.mit.edu/pub/usenet/news.answers/puzzles/archive/references">references</a>
+| <a href="ftp://rtfm.mit.edu/pub/usenet/news.answers/puzzles/archive/series">series puzzles</a>
+| <a href="ftp://rtfm.mit.edu/pub/usenet/news.answers/puzzles/archive/trivia">trivia puzzles</a>
+</ul>
+
+There is a group of rec.puzzles regulars, who are familiar with the
+rec.puzzles archive, and who will respond to queries. To send them a question,
+send an email to <a href="mailto:puzzle-oracle@questrel.com">puzzle-oracle@questrel.com</a>.
+
+<li><a href="news:sci.math" NAME="sci.math">sci.math</a><br>
+Sections of the <a href="http://daisy.uwaterloo.ca/~alopez-o/math-faq/mathtext/math-faq.html">FAQ</a> (Frequently Asked Questions file) that are of interest to problemists:
+<ul>
+  <li>Unsolved Problems
+  <ul>
+    <li>Does there exist a number that is perfect and odd?
+    <li>Collatz Problem
+  </ul>
+  <li>Famous Problems in Mathematics
+  <ul>
+    <li>The Four Colour Theorem
+    <li>The Trisection of an Angle
+  </ul>
+  <li>Which are the 23 Hilbert Problems?</li>
+</ul>  
+
+<li><a href="news:alt.math.iams" name="alt.math.iams">alt.math.iams</a><br>
+This is the newsgroup of the Internet Amateur Mathematics Society,
+moderated by <a href="mailto:benjie@hh.sbay.org">Benjie Chen</a>.
+Extensive <a href="archive/iams/">archives</a> are available.
+
+<li><a href="news:maus.mathe" name="maus.mathe">maus.mathe</a><br>
+  German language version of sci.math.</li>
+
+</ul>
+
+<a name="email"></a>
+<h2>Problem Columns via Electronic Mail</h2>
+<ul>
+<li>Stan Wagon's Problem of the Week</li>
+Each week during the fall and spring semesters,
+<a href="mailto:wagon@macalstr.edu">Stan Wagon</a> posts a Problem of the Week for students at Macalester College. This 
+tradition was started in 1968 by Professor Joe Konhauser (recently deceased); Joe posted problems for 25 years and Stan took over in 1993.
+These problems are meant to be accessible to first-year college students, so very little background is needed to understand or 
+solve the problems.
+<p>
+Stan sends out the problems by e-mail as well (the mailing list 
+currently has about 200 names), and if you would like to be
+placed on the list, send a message
+to that effect to Meridy Amsden at
+<a href="mailto:amsden@macalstr.edu">amsden@macalstr.edu</a>.
+The subject of the email message should be "wagon's problem list".
+<a>
+The  best of the over 700 problems used so far will appear in a book
+co-authored by J. Konhauser, D. Velleman, and S. Wagon, titled
+"Which Way Did the Bicycle Go?". It will be published by the
+Mathematical Association of America and should be available by the
+end of 1995.<p>
+
+<li>The Internet Amateur Mathematics Society
+<p>
+Benjie Chen and the Internet Amateur Mathematics Society publish
+math problems from time to time on their newsgroup and world wide web pages.
+You can also receive this information via electronic mail.
+Their mail list server is
+<a href="mailto:listserv@hh.sbay.org">lstserv@hh.sbay.org</A>.
+
+</ul>
+
+<a name="wwwjnls"></a>
+<h2>Journals with problem columns</h2>
+		<ul>
+<li><a HREF="http://www.digitas.org:80/tangents/">
+Tangents</a>
+Tangents Online is the electronic version of the Harvard-Radcliffe Mathematics
+Bulletin.
+It contains a problem column called Math Challenge Problem and Puzzles,
+edited by Takara Stanley.
+<li><a href="http://web.mit.edu/afs/athena/org/t/techreview/www/tr.html">
+Technology Review</a><br>
+The journal, Technology Review, has a problem column run by
+<a href="http://cs.nyu.edu/cs/faculty/gottlieb/">Allan Gottlieb</a>.
+Although this journal is now being published on the web, the web version
+does not yet include the problem column, which only appears in the
+alumni edition.
+<a href="http://www.mathsoft.com/puzzle.html">Selected problems</a> are
+reprinted at
+<a href="http://www.mathsoft.com/">MathSoft's Web site</a>.
+<li><a href="http://www.utoronto.ca/math/mayhem.html">Mathematical Mayhem</a>
+has several problem columns. It has its own web page, but the problems
+are not yet on-line.
+</u>
+		<a name="bookstores"></a>
+		<h2>On-line Bookstores that stock Problem Books</h2>
+		<ul>
+<li><a href=
+"http://www.technical.powells.portland.or.us/stacks/science.math.html">Powell's
+Technical Bookstore</a><br>
+Check out listings under General/recreational
+</ul>
+
+<a name="information"></a>
+<h2>Miscellaneous information</h2>
+<ul>
+  
+<li>The University of Tennessee at Knoxville maintains
+<a href="gopher://archives.math.utk.edu:70/">The Mathematics Archives</a>
+which contains information about various
+<a href="gopher://archives.math.utk.edu:70/11/teaching.materials/contests">mathematics contests</a>.</li>
+  
+<li>The <a href="gopher://gopher.maa.org:70/">MAA gopher</a> has information
+about <a href="gopher://gopher.maa.org:70/11/student/Competitions">mathematics competitions</a>.</li>
+  
+<li>A <a href="gopher://ctdnet.acns.nwu.edu:70/11/The_Center_for_Talent_Development/Contests_and_Competitions/Math_and_Engineering/">list of math competitons</A>
+is maintained by <a href="https://www.ctd.northwestern.edu">
+The_Center_for_Talent_Development</a>.
+  
+<LI>Xah Lee and Michel Gallant are the sysops for
+the Math Puzzles forum on compuserve (section 20 of the Science and Math Forum).
+This is a bulletin board that discusses a wide variety of math puzzles.
+They occasionally hold Recreational Math Puzzle Conferences.
+<LI><A HREF="http://www.math.harvard.edu:80/~kedlaya/">Kiran S. Kedlaya</A> maintains an<A HREF="http://WWW.MATH.HARVARD.EDU:80/~kedlaya/competitions.html">archive</A>
+containing problems and solutions from various competitions, such as the USAMO,
+the IMO, and the Putnam Competitions.
+<LI><A HREF="http://www.win.tue.nl/win/cs/pa/wstomv/">Tom Verhoeff</A>
+maintains information about the
+<A HREF="http://www.win.tue.nl/win/ioi/">International Olympiad in
+Informatics</A>. He also has some information about the
+<A HREF="http://www.win.tue.nl/win/ioi/imo/">International
+Mathematical Olympiad</A>.
+</ul>
+
+<HR>This page was last updated on January 11, 2006.<BR>
+<ADDRESS>
+<IMG SRC="gifs/smallLogo.gif" align=right>
+This page is maintained by <A HREF="index.html">MathPro Press</A>
+(<A HREF="mailto:problemMaster@MathProPress.com">problemMaster@MathProPress.com</A>).
+</ADDRESS>
+		<BR>
+	</body>
+</html>
