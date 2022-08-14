@@ -1,0 +1,8 @@
+.fibonacci{
+  margin-top:2px;
+  margin-bottom:0;
+}
+
+body{
+  background-color:#eee;
+}
