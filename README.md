@@ -13,9 +13,11 @@
   <li>Basic JS-> &#9989;</li>
   <li>HTML5-> &#9989;</li>
   <li>CSS3-> &#9989;</li>
-  <li>ES5-> &#9940;</li>
+  
   <li>Boostrap-> In progress...</li>
   <li>SASS-> In progress...</li>
+  
+  <li>ES5-> &#9940;</li>
   <li>Boostrap-> &#9940;</li>
   <li>React-> &#9940;</li>
   <li>Redux-> &#9940;</li>
