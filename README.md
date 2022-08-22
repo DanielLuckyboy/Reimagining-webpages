@@ -1,9 +1,10 @@
 # Reimagining-webpages
-<p><b>I take webpages that are under development or in special subdomains (eg: .uk) and I reimage them.</b></p>
+<p><b>I take webpages that are under development or in territorial subdomains (eg: .uk) and I reimage them.</b></p>
 <ul>
-  <li><b>Maths directory -></b> http://www.mathpropress.com/mathCenter.html</li>
-  <li><b>Steinway pianos -></b> https://eu.steinway.com/</li>
-<li>...</li>
+  <li>Maths directory -> http://www.mathpropress.com/mathCenter.html</li>
+  <li>Steinway pianos (In development...) -> https://eu.steinway.com/ </li>
+  <li>John Watson's blog (In development...)-> www.johnwatsonblog.co.uk</li>
+  <li>...</li>
 </ul>
 <p><b>My knowledge about front-end dev:</b></p>
 <ul>
