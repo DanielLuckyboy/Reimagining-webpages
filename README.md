@@ -4,7 +4,7 @@
   <li>Maths directory -> <a href='http://www.mathpropress.com/mathCenter.html'>Official webpage</a> <-> <a href='https://codepen.io/luckyboycodepen/pen/oNqpVPx' > Codepen project</a></li>
   <li>Steinway pianos (In development...) -> <a href='https://eu.steinway.com/'>Official webpage</a> <-> <a href='https://codepen.io/luckyboycodepen/pen/rNdzrBN' > Codepen project</a>  </li>
   <li>John Watson's blog (In development...)-> <a href='www.johnwatsonblog.co.uk'>Official webpage</a> <-> <a href='' > Codepen project</a></li>
-  <li>Lily and Marshall's online shop (for HIMYM fans)-> <a href='https://lilyandmarshallselltheirstuff.com'>Official webpage</a> <-> <a href='' > Codepen project</a> </li>
+  <li>Lily and Marshall's online shop (for HIMYM fans)-> <a href='https://lilyandmarshallselltheirstuff.com'>Official webpage</a> <-> <a href='https://codepen.io/luckyboycodepen/pen/MWVddbM' > Codepen project</a> </li>
   <li>...</li>
 </ul>
 <p><b>My knowledge about front-end dev:</b></p>
