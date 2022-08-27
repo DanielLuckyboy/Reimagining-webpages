@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <div class='menu'>
+      <h1>Lily and Marshall sell their stuff.com</h1>
+      <h3 class='firsth3'>Buy our stuff here</h3>
+      
+      <div class='menu-links'>
+        <img><a href='www.lilyandmarshallselltheirstuff/login.php'>
+          Log in
+        </a>|
+        <img><a href='www.lilyandmarshallselltheirstuff/signup.php'>Sign up</a>
+        <img><a href='www.lilyandmarshallselltheirstuff/my-favourites'>Favourites (0)</a>
+        <img><a href='www.lilyandmarshallselltheirstuff/mybag.php'>My bag (0)</a>
+      </div>
+      
+    </div><div class='second-menu'>
+    <a href='#'>Lily's paintings</a>
+    <a href='#'>Clothes</a>
+    <a href='#'>Jewellry</a>
+    <a href='#'>Marshall' stuff</a>
+    </div>
+    
+    
+    
+    <div id='main-content'>
+      <article class='presentation'>
+        <h2>Hello, we are Lily and Marshall and here you can buy our stuff</h2><img>
+        <p></p>
+        
+      </article>
+      
+      <main>
+        
+        <div class='group1'>
+          <img>
+          <a href='www.lilyandmarshallselltheirstuff/lilys-paintings'><h3>Lily's paintings</h3></a>
+          <p>We can all agree that Lily is an artist without comparation, here you can buy her art.</p>
+        </div>
+        
+        <div class='group2'>
+          <img>
+          <a href='www.lilyandmarshallselltheirstuff/clothes'><h3>Clothes</h3></a>
+          <p>Second-hand clothes without a stain, just as new.</p>
+        </div>
+        
+        <div class='group3'>
+          <img>
+          <a href='www.lilyandmarshallselltheirstuff/jewellry'><h3>Jewellry</h3></a>
+          <p>Collars, rings and earrings.</p>
+        </div>
+        
+        <div class='group4'>
+          <img>
+          <a href='www.lilyandmarshallselltheirstuff/marshalls-stuff'> <h3>Marshall' stuff</h3></a>
+            <p>Comics, dianas, table games and more...</p>
+        </div>
+      </main>
+      
+    </div>
+    
+    <footer>
+      <a href='lilyandmarshallselltheirstuff/cookies_declaration'>Cookies declaration (oh, cookies!, yummy)</a>
+      |<a href=''
+    </footer>
+  </body>
+</hmtl>
